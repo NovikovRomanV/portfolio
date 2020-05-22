@@ -1,0 +1,23 @@
+.footerBlock {
+    height: 50vh;
+    background-color: darkgray;
+}
+
+.footerContainer {
+    flex-direction: column;
+}
+
+.socialNetwork {
+    width: 350px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    flex-wrap: wrap;
+
+}
+
+.link {
+    margin: 0;
+    background-color: gray;
+}
