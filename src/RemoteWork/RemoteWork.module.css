@@ -1,0 +1,13 @@
+.remoteWorkBlock {
+    height: 30vh;
+    background-color: wheat;
+}
+
+.remoteWork {
+    border: 1px solid;
+
+}
+
+.remoteWork {
+    flex-direction: column;
+}
