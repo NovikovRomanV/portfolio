@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+    height: 80px;
+    background-color: cornflowerblue;
+
+
+}
