@@ -1,0 +1,50 @@
+.work {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.iconBlock {
+    width: 450px;
+    background-color: rgba(0, 0, 0, 0.41);
+    display: flex;
+    flex-direction: column;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+    background-color: #eeeef5;
+}
+
+.link {
+    padding: 10px 35px;
+    background-color: gray;
+    align-self: center;
+
+}
+
+.titleBlock {
+    width: 450px;
+    background-color: wheat;
+
+
+}
+
+.title {
+    margin-bottom: 10px;
+    margin-left: 25px;
+    margin-right: 255px;
+    background-color: gray;
+    text-align: left;
+}
+
+.description {
+    margin-top: 0;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: gray;
+    text-align: left;
+}

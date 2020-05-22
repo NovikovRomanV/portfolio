@@ -9,9 +9,9 @@ function Skills() {
             <div className={`${sContainer.container} ${s.skillsContainer}`}>
                 <h2 className={s.title}>Skills</h2>
                 <div className={s.skills}>
-                    <Skill title="HTML" description="Бест оф зе бест, бест оф зе бест, бест оф зе бест"/>
-                    <Skill title="CSS" description="Бест оф зе бест, бест оф зе бест, бест оф зе бест, бест оф зе бест, бест оф зе бест"/>
-                    <Skill title="JS" description="Бест оф зе бест, бест оф зе бест"/>
+                    <Skill title="HTML" description="The best of the best, the best of the best, the best of the best"/>
+                    <Skill title="CSS" description="The best of the best, the best of the best, the best of the best, the best of the best, the best of the best"/>
+                    <Skill title="JS" description="The best of the best, the best of the best"/>
                 </div>
             </div>
         </div>
