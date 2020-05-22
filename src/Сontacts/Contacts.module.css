@@ -1,0 +1,24 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: goldenrod;
+}
+
+.contacts {
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid;
+}
+
+.input {
+    margin-bottom: 5px;
+    background-color: gray;
+}
+
+.textarea {
+    background-color: gray;
+}
