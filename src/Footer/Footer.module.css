@@ -5,19 +5,21 @@
 
 .footerContainer {
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .socialNetwork {
-    width: 350px;
+    width: 250px;
     height: 30px;
     display: flex;
     justify-content: space-between;
     border: 1px solid;
     flex-wrap: wrap;
-
 }
 
 .link {
     margin: 0;
     background-color: gray;
+    text-decoration: none;
+    color: black;
 }

@@ -6,6 +6,7 @@
 .worksContainer {
     flex-direction: column;
     justify-content: flex-start;
+    flex-wrap: wrap;
 }
 
 .title {
