@@ -22,4 +22,12 @@
 
 .textarea {
     background-color: gray;
+    margin-bottom: 5px;
+    resize: none;
+}
+
+.button {
+    padding: 10px 35px;
+    background-color: gray;
+    align-self: center;
 }

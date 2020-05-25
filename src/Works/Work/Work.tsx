@@ -11,7 +11,6 @@ function Work(props: PropsType) {
     return (
         <div className={s.work}>
             <div className={s.iconBlock}>
-                <div className={s.icon}></div>
                 <a className={sLink.link} href="#">watch</a>
             </div>
             <div className={s.titleBlock}>

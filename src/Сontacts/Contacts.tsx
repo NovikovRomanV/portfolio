@@ -12,8 +12,10 @@ function Contacts() {
                     <input className={s.input}/>
                     <input className={s.input}/>
                     <textarea className={s.textarea}></textarea>
+                    <button className={s.button} type={"submit"}>Send</button>
                 </form>
-                <a className={sLink.link} href="#">Send</a>
+
+
             </div>
         </div>
     )
